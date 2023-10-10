@@ -4,12 +4,12 @@
         "version-1.1": {
             "name": "Version 1.1",
             "details" : "Nose detalles de la actualizacion.",
-            "url": "https://github.com/SlayerIbn/undertale-worldwide/raw/main/version%201.1.xdelta"
+            "url": "https://raw.githubusercontent.com/SlayerIbn/undertale-worldwide/main/versions/version%201.1.xdelta"
         },
         "version-1.0": {
             "name": "Version 1.0",
             "details" : "Nose detalles de la actualizacion.",
-            "url": "https://github.com/SlayerIbn/undertale-worldwide/raw/main/version%201.0.xdelta"
+            "url": "https://raw.githubusercontent.com/SlayerIbn/undertale-worldwide/main/versions/version%201.0.xdelta"
         }
     }
 }
