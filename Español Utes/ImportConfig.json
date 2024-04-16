@@ -1,0 +1,157 @@
+{
+    "Config": {
+        "lang" : "lang_es_utes.json",
+        "langName" : "Español (Utes)"
+
+
+    },
+    "SpritesData": {
+        "spr_pressz_press": {
+            "OriginX": 20,
+            "OriginY": 20,
+            "BoundingBox": 2
+        },
+        "spr_pressz_z": {
+            "OriginX": 20,
+            "OriginY": 20,
+            "BoundingBox": 2
+        },
+        "spr_6hope": {
+            "OriginX": 29,
+            "OriginY": 11,
+            "BoundingBox": 2
+        },
+        "spr_actbt_center": {
+            "OriginX": 55,
+            "OriginY": 21,
+            "BoundingBox": 2
+        },
+        "spr_mercybutton_shatter": {
+            "OriginX": 55,
+            "OriginY": 21,
+            "BoundingBox": 2
+        },
+        "spr_fightbt_center": {
+            "OriginX": 55,
+            "OriginY": 21,
+            "BoundingBox": 2
+        },
+        "spr_actbt_center_hole": {
+            "OriginX": 56,
+            "OriginY": 22,
+            "BoundingBox": 2
+        },
+        "spr_bombburst": {
+            "OriginX": 21,
+            "OriginY": 20,
+            "BoundingBox": 2
+        },
+        "spr_defusebox": {
+            "OriginX": 20,
+            "OriginY": 15,
+            "BoundingBox": 2
+        },
+        "spr_mettatonb_behind": {
+            "OriginX": 52,
+            "OriginY": 66,
+            "BoundingBox": 2
+        },
+        "spr_mettatonb_behind_on": {
+            "OriginX": 52,
+            "OriginY": 66,
+            "BoundingBox": 2
+        },
+        "spr_papdate_cool": {
+            "OriginX": 0,
+            "OriginY": 2,
+            "BoundingBox": 2
+        },
+        "spr_text_congratulations": {
+            "OriginX": 32,
+            "OriginY": 0,
+            "BoundingBox": 2
+        },
+        "spr_text_restart": {
+            "OriginX": 16,
+            "OriginY": 0,
+            "BoundingBox": 2
+        },
+        "spr_text_restaurant": {
+            "OriginX": 25,
+            "OriginY": 0,
+            "BoundingBox": 2
+        },
+        "spr_timehud_vert": {
+            "OriginX": 0,
+            "OriginY": 20,
+            "BoundingBox": 2
+        },
+        "spr_kissbullet": {
+            "OriginX": 12,
+            "OriginY": 12,
+            "BoundingBox": 2
+        },
+        "spr_parasolmett": {
+            "OriginX": 20,
+            "OriginY": 23,
+            "BoundingBox": 2
+        },
+        "spr_sans_z_battle": {
+            "OriginX": 13,
+            "OriginY": 14,
+            "BoundingBox": 2
+        },
+        "spr_mett_milkpour": {
+            "OriginX": 8,
+            "OriginY": 8,
+            "BoundingBox": 2
+        },
+        "spr_mettaton_holdarm": {
+            "OriginX": 9,
+            "OriginY": 4,
+            "BoundingBox": 2
+        },
+        "spr_mettaton_wave": {
+            "OriginX": 9,
+            "OriginY": 12,
+            "BoundingBox": 2
+        },
+        "spr_starcheckeredit": {
+            "MarginLeft": 120,
+            "MarginRight": 200,
+            "MarginBottom": 155,
+            "MarginTop": 85,
+            "BoundingBox": 2
+        },
+        "spr_bombexplosion": {
+            "OriginX": 20,
+            "OriginY": 23,
+            "MarginLeft": 10,
+            "MarginRight": 31,
+            "MarginBottom": 34,
+            "MarginTop": 11,
+            "BoundingBox": 2
+        },
+        "spr_barkbullet": {
+            "BoundingBox": 2
+        },
+        "spr_cbone": {
+            "BoundingBox": 2
+        },
+        "spr_oolbone": {
+            "BoundingBox": 2
+        },
+        "spr_sparebt": {
+            "BoundingBox": 2
+        },
+        "spr_sparebt_bandage": {
+            "BoundingBox": 2
+        },
+        "spr_udebone": {
+            "BoundingBox": 2
+        },
+        "spr_soapbul": {
+            "BoundingBox": 2
+        }
+    }
+}
